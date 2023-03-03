@@ -1,4 +1,6 @@
-.container{
-    max-width: 1140px;
-    margin: 0 auto;
+@import url("./basic.css");
+
+.py-rem {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
